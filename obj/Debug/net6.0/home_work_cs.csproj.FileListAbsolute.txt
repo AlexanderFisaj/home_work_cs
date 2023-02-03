@@ -1,0 +1,5 @@
+E:\GB\hw\home_work_cs\obj\Debug\net6.0\home_work_cs.csproj.AssemblyReference.cache
+E:\GB\hw\home_work_cs\obj\Debug\net6.0\home_work_cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\hw\home_work_cs\obj\Debug\net6.0\home_work_cs.AssemblyInfoInputs.cache
+E:\GB\hw\home_work_cs\obj\Debug\net6.0\home_work_cs.AssemblyInfo.cs
+E:\GB\hw\home_work_cs\obj\Debug\net6.0\home_work_cs.csproj.CoreCompileInputs.cache
