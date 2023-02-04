@@ -1,0 +1,15 @@
+E:\GB\hw\home_work_cs\hw_lesson_002\bin\Debug\net6.0\hw_lesson_002.exe
+E:\GB\hw\home_work_cs\hw_lesson_002\bin\Debug\net6.0\hw_lesson_002.deps.json
+E:\GB\hw\home_work_cs\hw_lesson_002\bin\Debug\net6.0\hw_lesson_002.runtimeconfig.json
+E:\GB\hw\home_work_cs\hw_lesson_002\bin\Debug\net6.0\hw_lesson_002.dll
+E:\GB\hw\home_work_cs\hw_lesson_002\bin\Debug\net6.0\hw_lesson_002.pdb
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.csproj.AssemblyReference.cache
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.AssemblyInfoInputs.cache
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.AssemblyInfo.cs
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.csproj.CoreCompileInputs.cache
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.dll
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\refint\hw_lesson_002.dll
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.pdb
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\hw_lesson_002.genruntimeconfig.cache
+E:\GB\hw\home_work_cs\hw_lesson_002\obj\Debug\net6.0\ref\hw_lesson_002.dll
